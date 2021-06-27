@@ -1,4 +1,4 @@
-# Oasi
+# Oas
 
 <img src='https://img.shields.io/badge/License-MIT-blue.svg' > [![Docker Image CI](https://github.com/oasis-sh/oasis/actions/workflows/docker-image.yml/badge.svg)](https://github.com/oasis-sh/oasis/actions/workflows/docker-image.yml)
 
